@@ -1,4 +1,4 @@
-# frontend-engineering-play-book
+## Frontend Engineering Playbook
 An open sourced Play book on Frontend Engineering ready for contribution for Hactoberfest.
 - https://leanpub.com/frontend-engineering-playbook
 
