@@ -14,7 +14,7 @@ An open sourced Play book on Frontend Engineering ready for contribution for Hac
 
 <br/>
 
-[![Anoop Gupta](/assets/images/twitter-s.png)](https://twitter.com/NoriSte/) **Follow me on Twitter!** [**@anoop__gupta**](https://twitter.com/anoop__gupta/)
+### Maintainer: Anoop Gupta https://img.shields.io/twitter/follow/anoop__gupta?label=Anoop%20Gupta&style=social
 
 <br/>
 
