@@ -3,7 +3,7 @@ An open sourced Play book on Frontend Engineering ready for contribution for Hac
 - https://leanpub.com/frontend-engineering-playbook
 
 <h1 align="center">
-  <img src="frontend-engineering-playbook.png" alt="Frontend Engineering Playbook" width="150px">
+  <img src="frontend-engineering-playbook.png" alt="Frontend Engineering Playbook" width="250">
 </h1>
 
 <br/>
