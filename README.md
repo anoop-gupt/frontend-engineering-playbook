@@ -3,13 +3,13 @@ An open sourced Play book on Frontend Engineering ready for contribution for Hac
 - https://leanpub.com/frontend-engineering-playbook
 
 <h1 align="center">
-  <img src="frontend-engineering-playbook.png" alt="Frontend Engineering Playbook" width="100px">
+  <img src="frontend-engineering-playbook.png" alt="Frontend Engineering Playbook" width="150px">
 </h1>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/⚙%20Item%20count%20-%201%20Best%20Practices-blue.svg" alt="1 items"> 
+  <img src="https://img.shields.io/badge/Playbook-Frontend%20Engineering-brightgreen" alt=""> 
 </div>
 
 <br/>
