@@ -14,7 +14,7 @@ An open sourced Play book on Frontend Engineering ready for contribution for Hac
 
 <br/>
 
-### Maintainer: Anoop Gupta https://img.shields.io/twitter/follow/anoop__gupta?label=Anoop%20Gupta&style=social
+### Maintainer: Anoop Gupta <img src="https://img.shields.io/twitter/follow/anoop__gupta?label=Anoop%20Gupta&style=social">
 
 <br/>
 
