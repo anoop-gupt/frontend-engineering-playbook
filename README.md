@@ -6,5 +6,5 @@ An open sourced Play book on Frontend Engineering ready for contribution for Hac
 - Contributing guidelines
 - Code of conduct
 
-![](frontend-engineering-playbook.png){width=50px}
+![](frontend-engineering-playbook.png)
 
