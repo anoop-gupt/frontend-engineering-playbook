@@ -1,7 +1,7 @@
 
-### ===============================
+
 ### Frontend Engineering Playbook
-### ===============================
+
 This is the source repository for Frontend Engineering Playbook by Anoop Gupta.
 It is open sourced and ready for contribution for Hactoberfest.
 
