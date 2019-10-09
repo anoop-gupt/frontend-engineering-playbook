@@ -34,7 +34,33 @@ Please note that for now, producing a better book is the primary goal. All other
 <br/><br/>
 
 ## Table of Contents
-(Work in progress)
+- Semantics and HTML
+- CSS Optimization
+- JS and Frameworks
+- Type of Applications 
+  - SPA
+  - MPA
+  - PWA
+  - AMP
+ - Renderings
+  - CSR
+  - SSR
+- Performance Optimization
+  - Loading Techniques
+  - Image Optimization 
+  - Scripts
+  - Compressions
+  - Cookies
+  - Storage
+- Accessibility Testing
+- Web Security
+- Caching Strategies
+- Search Engine Optimization
+- Packages and Bundling
+- Popular Libraries
+- Poular NPM Modules
+- References
+
 
 <br/><br/><br/>
 
