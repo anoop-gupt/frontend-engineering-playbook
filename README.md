@@ -1,6 +1,8 @@
 ## Frontend Engineering Playbook
-An open sourced Play book on Frontend Engineering ready for contribution for Hactoberfest.
-- https://leanpub.com/frontend-engineering-playbook
+This is the source repository for Frontend Engineering Playbook by Anoop Gupta.
+It is open sourced and ready for contribution for Hactoberfest.
+
+[LeanPub Link] https://leanpub.com/frontend-engineering-playbook
 
 <h1 align="center">
   <img src="frontend-engineering-playbook.png" alt="Frontend Engineering Playbook" width="250">
@@ -19,9 +21,6 @@ An open sourced Play book on Frontend Engineering ready for contribution for Hac
 <br/>
 
 ###### Built and maintained by our [Steering Committee](#steering-committee) and [Collaborators](#collaborators)
-
-# Frontend Enginnering Playbook
-
 (Work in progress)
 
 
