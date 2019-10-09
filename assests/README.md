@@ -1,1 +1,1 @@
-Upload the inmages with your <firstname>-<lastname>.fileextension
+Upload the inmages with your [firstname]-[lastname].fileextension
