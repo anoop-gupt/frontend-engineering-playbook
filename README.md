@@ -34,31 +34,31 @@ Please note that for now, producing a better book is the primary goal. All other
 <br/><br/>
 
 ## Table of Contents
-- Semantics and HTML
-- CSS Optimization
-- JS and Frameworks
-- Type of Applications 
-  - SPA
-  - MPA
-  - PWA
-  - AMP
- - Renderings
+- Getting Started
+- FE Architecture Principles
+- Writing semantic HTML
+- Reduce the cost of styling
+- Reduce the cost of scripts
+- Reliable renderings
   - CSR
   - SSR
-- Performance Optimization
+  - Hybrid
+- Makit it fast
   - Loading Techniques
   - Image Optimization 
   - Scripts
   - Compressions
+- Where to store
   - Cookies
   - Storage
-- Accessibility Testing
-- Web Security
-- Caching Strategies
-- Search Engine Optimization
-- Packages and Bundling
-- Popular Libraries
-- Poular NPM Modules
+  - Handling Secrets
+- Making things accessible
+- Making things secure
+- What and where to cache
+- Making it searchable
+- How to bundle
+- Libraries you can use
+- NPM Modules you can use
 - References
 
 
