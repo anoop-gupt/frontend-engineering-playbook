@@ -14,7 +14,7 @@ It is open sourced and ready for contribution for Hactoberfest.
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Playbook-Frontend%20Engineering-brightgreen" alt=""> 
+  <img src="https://img.shields.io/badge/Playbook-Frontend%20Engineering-brightgreen" alt="" border="1"> 
 </div>
 
 <br/>
