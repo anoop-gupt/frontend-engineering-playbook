@@ -1,4 +1,7 @@
-## Frontend Engineering Playbook
+
+### ===============================
+### Frontend Engineering Playbook
+### ===============================
 This is the source repository for Frontend Engineering Playbook by Anoop Gupta.
 It is open sourced and ready for contribution for Hactoberfest.
 
@@ -19,6 +22,9 @@ It is open sourced and ready for contribution for Hactoberfest.
 ### Maintainer: Anoop Gupta <img src="https://img.shields.io/twitter/follow/anoop__gupta?label=Anoop%20Gupta&style=social">
 
 <br/>
+
+### Dependencies
+Please note that for now, producing a better book is the primary goal. All other things being equal, an easier to build book is better than a harder to build book, but, for example, a better illustration that relies on a new tool is better than a worse illustration.
 
 ###### Built and maintained by our [Steering Committee](#steering-committee) and [Collaborators](#collaborators)
 (Work in progress)
