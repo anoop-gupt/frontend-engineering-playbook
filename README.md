@@ -101,7 +101,7 @@ Thanks to all maintainers!🙏
 
 Thank you to all our collaborators! 🙏
 
-Our collaborators are members who are contributing to the repository on a reguar basis, through suggesting the chapters and content for the book, triaging issues, reviewing pull requests and more. If you are interested in helping us publish this engineering book, please read our [contributor guidelines] 🎉
+Our collaborators are members who are contributing to the repository on a reguar basis, through suggesting the chapters and content for the book, triaging issues, reviewing pull requests and more. If you are interested in helping us publish this engineering book, please read our [contributor guidelines](CONTRIBUTING.md) 🎉
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <table>
