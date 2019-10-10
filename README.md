@@ -34,29 +34,29 @@ Please note that for now, producing a better book is the primary goal. All other
 <br/><br/>
 
 ## Table of Contents
-- Getting Started
-- FE Architecture Principles
-- Writing semantic HTML
-- Reduce the cost of styling
-- Reduce the cost of scripts
-- Reliable renderings
+- [01 Getting Started](sections/01-getting-started)
+- [02 FE Architecture Principles](sections/02-fe-architecture-principles)
+- [03 Writing semantic HTML](sections/03-writing-semantic-html)
+- [04 Cost of styling](sections/04-cost-of-scripts)
+- [05 Cost of scripts](sections/05-cost-of-styling)
+- [06 Reliable renderings](sections/06-reliable-renderings)
   - CSR
   - SSR
   - Hybrid
-- Makit it fast
+- [07 Making it fast](sections/07-making-it-fast)
   - Loading Techniques
   - Image Optimization 
   - Scripts
   - Compressions
-- Where to store
+- [08 Where to store](sections/08-where-to-store)
   - Cookies
   - Storage
   - Handling Secrets
-- [Code Linting](#code-linting)
+- [09 Catch errors early](/sections/09-catch-erros-early/linters.md) 
   - JavaScript Linters
   - CSS Linters
-- Making things accessible
-- Making things secure
+- [10 Making things accessible](sections/10-making-things-accessible)
+- [11 Making things secure](sections/11-making-things-secure)
   - Common Attack Vectors
   - XSS
   - CSRF
@@ -65,43 +65,17 @@ Please note that for now, producing a better book is the primary goal. All other
   - Social Engineering
   - Session & Cookie jacking
   - RegEx related exploits
-- What and where to cache
-- Making it searchable
-- How to bundle
-- Libraries you can use
-- NPM Modules you can use
-- References
+- [12 Caching strategies](sections/12-caching-strategies)
+- [13 Making it searchable](sections/13-making-it-searchable)
+- [14 Packers and Bundlers](sections/13-making-it-searchable)
+- [15 Libraries you can use](sections/15-libraries-you-can-use)
+- [16 NPM Modules you can use](sections/16-modules-you-can-use)
+- [17 Credit and References](sections/16-modules-you-can-use)
+- [18 Contributors](sections/18-contributors)
 
 
 <br/><br/><br/>
 
-## Code Linting
-
-Linting is the process of running a program that analyzes your code for programmatic and stylistic errors. A linting tool, or a linter, marks or flags any potential errors in your code such as syntax errors or incorrectly spelled variable names. This can save time and help you write better code.
-
-Linters can be installed using npm or another package manager. Linters can be used from the command line by passing in files. Linters are also available as plugins for tools and sometimes they are directly integrated into editors.
-
-Javascript Linters:
-
- - [JSLint](http://www.javascriptlint.com/online_lint.php)
-
- - [JSHint](http://jshint.com/)
-
- - [JSCS](http://jscs.info/)
-
- - <img src="./assests/eslint.svg" alt="Stylelint" title="A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease." width="16" height="16" /> [ESLint](http://eslint.org/)
-
-CSS Linters:
-
-  - <img src="./assests/stylelint.png" alt="Stylelint" title="A mighty, modern linter that helps you avoid errors and enforce conventions in your styles." width="16" height="16" /> [Stylelint](https://stylelint.io/) 
-  
-  - [SCSS Lint](https://github.com/sds/scss-lint)
-
-### Linters for Editors :
-Visual Code: To Install the eslint extension, open command palette (View -> Command Palette.. or cmd+shift+p ) and execute command: `ext install eslint`
-
-### Tools and Plugins
-[Prettier](https://prettier.io/)
 
 ## Collaborators
 
