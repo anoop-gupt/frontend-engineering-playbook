@@ -3,7 +3,7 @@
 ### 🔥Frontend Engineering Playbook 
 
 
-(https://github.com/anoop-gupt/frontend-engineering-playbook/pulls)
+
 [![GitHub last commit](https://img.shields.io/github/last-commit/anoop-gupt/frontend-engineering-playbook?style=flat-square)](https://github.com/anoop-gupt/frontend-engineering-playbook/commits/master)
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/anoop-gupt/frontend-engineering-playbook?style=flat-square)
