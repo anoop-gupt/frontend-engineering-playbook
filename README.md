@@ -57,6 +57,14 @@ Please note that for now, producing a better book is the primary goal. All other
   - CSS Linters
 - Making things accessible
 - Making things secure
+  - Common Attack Vectors
+  - XSS
+  - CSRF
+  - Click Jacking
+  - Add Ons and Browser related exploits
+  - Social Engineering
+  - Session & Cookie jacking
+  - RegEx related exploits
 - What and where to cache
 - Making it searchable
 - How to bundle
