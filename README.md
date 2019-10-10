@@ -1,6 +1,7 @@
 
 
-### Frontend Engineering Playbook
+### Frontend Engineering Playbook <img src="https://img.shields.io/badge/Status-Work%20in%20progress-orange"/> 
+
 
 This is the source repository for Frontend Engineering Playbook by Anoop Gupta. This book will list down all the best strategies being used in Frontend for example Image Handling or Semantic HTML etc.
 Content is welcomed from variuos onloine resources but credit and copyright should be there and referenced.
@@ -9,14 +10,18 @@ It is open sourced and ready for contribution for Hactoberfest.
 [LeanPub Link] https://leanpub.com/frontend-engineering-playbook
 
 <h1 align="center">
-  <img src="frontend-engineering-playbook.png" alt="Frontend Engineering Playbook" width="250">
+  <img src="frontend-engineering-playbook.png" alt="Frontend Engineering Playbook" width="250" border="1">
 </h1>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Playbook-Frontend%20Engineering-brightgreen" alt="" border="1"> 
+  <img src="https://img.shields.io/badge/Playbook-Frontend%20Engineering-brightgreen">  
 </div>
+<div align="center">
+  <img src=https://img.shields.io/badge/Last%20Updated-10%20Oct%202019-red">
+</div>
+
 
 <br/>
 
