@@ -37,16 +37,10 @@ It is open sourced and ready for contribution for Hactoberfest.
 
 <br/>
 
-### Maintainer: Anoop Gupta <img src="https://img.shields.io/twitter/follow/anoop__gupta?label=Anoop%20Gupta&style=social">
-
-<br/>
-
 ### Dependencies
 Please note that for now, producing a better book is the primary goal. All other things being equal, an easier to build book is better than a harder to build book, but, for example, a better illustration that relies on a new tool is better than a worse illustration.
 
-###### Built and maintained by our [Steering Committee](#steering-committee) and [Collaborators](#collaborators)
-(Work in progress)
-
+### Built and maintained by our [Steering Committee](#steering-committee) and [Collaborators](#collaborators)
 
 <br/><br/>
 
@@ -92,6 +86,14 @@ Please note that for now, producing a better book is the primary goal. All other
 
 
 <br/><br/><br/>
+## Steering Committee and Maintainer
+<table>
+<tr>
+    <td align="center"><a href="https://github.com/anoop-gupt"><img src=https://avatars2.githubusercontent.com/u/1118525?s=460&v=4" width="100px;" alt="Gopal Saini"/><br /><sub><b>Anoop Gupta</b></sub></a>
+  </td>
+  
+  </tr>
+  </table>
 
 
 ## Collaborators
@@ -99,6 +101,17 @@ Please note that for now, producing a better book is the primary goal. All other
 Thank you to all our collaborators! 🙏
 
 Our collaborators are members who are contributing to the repository on a reguar basis, through suggesting the chapters and content for the book, triaging issues, reviewing pull requests and more. If you are interested in helping us publish this engineering book, please read our [contributor guidelines] 🎉
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<table>
+<tr>
+    <td align="center"><a href="https://github.com/gsaini"><img src="https://avatars3.githubusercontent.com/u/1699577?s=460&v=4" width="100px;" alt="Gopal Saini"/><br /><sub><b>Gopal Saini</b></sub></a>
+  </td>
+   <td align="center"><a href="https://github.com/ssriv48"><img src="https://avatars3.githubusercontent.com/u/11516981?s=460&v=4" width="100px;" alt="Gopal Saini"/><br /><sub><b>Sudhanshu Srivastava</b></sub></a>
+  </td>
+  
+  </tr>
+  </table>
 
 <br/>
 
