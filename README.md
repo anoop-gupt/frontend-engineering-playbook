@@ -40,7 +40,7 @@ P.S. It is open sourced and ready for contribution for Hactoberfest as a valid p
 ### Dependencies
 Please note that for now, producing a better book is the primary goal. All other things being equal, an easier to build book is better than a harder to build book, but, for example, a better illustration that relies on a new tool is better than a worse illustration.
 
-### Built and maintained by our [Maintainers](#maintainers) and [Collaborators](#collaborators)
+### Built and maintained by our [Steering Committe](#sterring-committe)[Maintainers](#maintainers) and [Collaborators](#collaborators)
 
 <br/><br/>
 
@@ -86,6 +86,9 @@ Please note that for now, producing a better book is the primary goal. All other
 
 
 <br/><br/><br/>
+## Steering Committe
+Waiting for sterring committe members for the guidance and right direction.
+
 ## Maintainers
 Thanks to all maintainers!🙏
 <table>
