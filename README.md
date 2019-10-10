@@ -40,7 +40,7 @@ Please note that for now, producing a better book is the primary goal. All other
 
 ## Table of Contents
 - [01 Getting Started](sections/01-getting-started)
-- [02 FE Architecture Principles](sections/02-fe-architecture-principles)
+- [02 FE Architecture Principles](/sections/02-fe-architecture-principles)
 - [03 Writing semantic HTML](sections/03-writing-semantic-html)
 - [04 Cost of styling](sections/04-cost-of-scripts)
 - [05 Cost of scripts](sections/05-cost-of-styling)
@@ -57,7 +57,7 @@ Please note that for now, producing a better book is the primary goal. All other
   - Cookies
   - Storage
   - Handling Secrets
-- [09 Catch errors early](/sections/09-catch-erros-early/linters.md) 
+- [09 Catch errors early](sections/09-catch-erros-early/linters.md) 
   - JavaScript Linters
   - CSS Linters
 - [10 Making things accessible](sections/10-making-things-accessible)
