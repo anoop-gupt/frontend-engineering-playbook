@@ -11,6 +11,8 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
 [![Code of conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square)](https://github.com/anoop-gupt/frontend-engineering-playbook/blob/master/CODE-OF-CONDUCT.md)
 ![GitHub](https://img.shields.io/github/license/anoop-gupt/frontend-engineering-playbook?color=blue&style=flat-square)
+![Work in Progress](https://img.shields.io/badge/Status-Work%20in%20progress-orange?style=flat-square)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/anoop-gupt/frontend-engineering-playbook/pulls)
 
 
 This is the source repository for Frontend Engineering Playbook by Anoop Gupta. This book will list down all the best strategies being used in Frontend for example Image Handling or Semantic HTML etc.
