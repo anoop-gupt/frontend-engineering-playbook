@@ -57,7 +57,7 @@ Please note that for now, producing a better book is the primary goal. All other
   - Cookies
   - Storage
   - Handling Secrets
-- [09 Catch errors early](sections/09-catch-erros-early/linters.md) 
+- [09 Catch errors early](sections/09-catch-errors-early/linters.md) 
   - JavaScript Linters
   - CSS Linters
 - [10 Making things accessible](sections/10-making-things-accessible)
