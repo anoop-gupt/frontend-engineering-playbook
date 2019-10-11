@@ -16,7 +16,7 @@
 
 
 This is the source repository for Frontend Engineering Playbook by Frontend community contributors. This book will list down all the best strategies being used in Frontend for example Image Handling or Semantic HTML etc.
-Content is welcomed from variuos online resources but credit and copyright information should be there and referenced.
+Content is welcomed from various online resources but credit and copyright information should be there and referenced.
 P.S. It is open sourced and ready for contribution for Hactoberfest as a valid project.
 
 [LeanPub Link] https://leanpub.com/frontend-engineering-playbook
