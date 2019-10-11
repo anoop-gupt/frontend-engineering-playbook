@@ -12,11 +12,11 @@ Javascript Linters:
 
  - [JSCS](http://jscs.info/)
 
- - <img src="./assests/eslint.svg" alt="Stylelint" title="A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease." width="16" height="16" /> [ESLint](http://eslint.org/)
+ - <img src="../../assests/eslint.svg" alt="ESLint" title="A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease." width="16" height="16" /> [ESLint](http://eslint.org/)
 
 CSS Linters:
 
-  - <img src="./assests/stylelint.png" alt="Stylelint" title="A mighty, modern linter that helps you avoid errors and enforce conventions in your styles." width="16" height="16" /> [Stylelint](https://stylelint.io/) 
+  - <img src="../../assests/stylelint.png" alt="Stylelint" title="A mighty, modern linter that helps you avoid errors and enforce conventions in your styles." width="16" height="16" /> [Stylelint](https://stylelint.io/) 
   
   - [SCSS Lint](https://github.com/sds/scss-lint)
 
