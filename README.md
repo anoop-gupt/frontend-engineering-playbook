@@ -76,14 +76,14 @@ Please note that for now, producing a better book is the primary goal. All other
   - Social Engineering
   - Session & Cookie jacking
   - RegEx related exploits
-  - [12 Froontend Dashboard ]
-  - [13 Caching strategies](sections/12-caching-strategies)
-  - [14 Making it searchable](sections/13-making-it-searchable)
-  - [15 Packers and Bundlers](sections/13-making-it-searchable)
-  - [16 Libraries you can use](sections/15-libraries-you-can-use)
-  - [17 NPM Modules you can use](sections/16-modules-you-can-use)
-  - [18 Credit and References](sections/16-modules-you-can-use)
-  - [19 Contributors](sections/18-contributors)
+- [12 Froontend Dashboard ](sections/dashboard)
+- [13 Caching strategies](sections/12-caching-strategies)
+- [14 Making it searchable](sections/13-making-it-searchable)
+- [15 Packers and Bundlers](sections/13-making-it-searchable)
+- [16 Libraries you can use](sections/15-libraries-you-can-use)
+- [17 NPM Modules you can use](sections/16-modules-you-can-use)
+- [18 Credit and References](sections/16-modules-you-can-use)
+- [19 Contributors](sections/18-contributors)
 
 
 <br/><br/><br/>
