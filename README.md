@@ -19,7 +19,7 @@ This is the source repository for Frontend Engineering Playbook by Frontend comm
 Content is welcomed from various online resources but credit and copyright information should be there and referenced.
 P.S. It is open sourced and ready for contribution for Hactoberfest as a valid project.
 
-[LeanPub Link] https://leanpub.com/frontend-engineering-playbook
+[LeanPub Link](https://leanpub.com/frontend-engineering-playbook)
 
 <h1 align="center">
   <img src="frontend-engineering-playbook.png" alt="Frontend Engineering Playbook" width="250" border="1">
