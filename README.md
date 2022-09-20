@@ -28,7 +28,8 @@ P.S. It is open sourced and ready for contribution for Hactoberfest as a valid p
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Playbook-Frontend%20Engineering-brightgreen">  
+  ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+ 
 </div>
 <div align="center">
   <img src=https://img.shields.io/badge/Last%20Updated-10%20Oct%202019-red">
