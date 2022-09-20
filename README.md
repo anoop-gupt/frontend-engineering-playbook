@@ -94,7 +94,7 @@ Waiting for sterring committe members for the guidance and right direction.
 Thanks to all maintainers!🙏
 <table>
 <tr>
-    <td align="center"><a href="https://github.com/anoop-gupt"><img src=https://avatars2.githubusercontent.com/u/1118525?s=460&v=4" width="100px;" alt="Gopal Saini"/><br /><sub><b>Anoop Gupta</b></sub></a>
+    <td align="center"><a href="https://github.com/anoop-gupt"><img src="https://avatars2.githubusercontent.com/u/1118525?s=460&v=4" width="100px;" alt="Anoop Gupta"/><br /><sub><b>Anoop Gupta</b></sub></a>
   </td>
   
   </tr>
