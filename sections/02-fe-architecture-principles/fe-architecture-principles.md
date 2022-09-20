@@ -24,9 +24,11 @@ Short duration projects with small team member can be a high value projects. So 
 ### Choose latest technology
 - PWA
 - AMP
+- Web Components
 ### Choose Rendering Techniques
 - CSR
 - SSR
+- Hybrid Rendering
 ### Project Organization
 - Folder by type
 - Folder by feature
@@ -35,6 +37,14 @@ Short duration projects with small team member can be a high value projects. So 
 - UI Testing
 - Unit Testing
 ### Branching Strategy
+- Trunk Based Development
+- Feature Based Development
+- Gitflow
 ### Deployment Strategy
+- Continuous Deployment
+- On Demand Releases
+- Semantic Versoning
+### Security
+
 
 
