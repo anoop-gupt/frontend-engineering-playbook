@@ -28,11 +28,13 @@ P.S. It is open sourced and ready for contribution for Hactoberfest as a valid p
 <br/>
 
 <div align="center">
-  ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+  <strong>Contributing<strong>
+  <h2>contributions welcome</h2>
+   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">
  
 </div>
 <div align="center">
-  <img src=https://img.shields.io/badge/Last%20Updated-10%20Oct%202019-red">
+  <img src="https://img.shields.io/badge/Last%20Updated-10%20Oct%202019-red">
 </div>
 
 
