@@ -30,11 +30,11 @@ P.S. It is open sourced and ready for contribution for Hactoberfest as a valid p
 <div align="center">
   <strong>Contributing<strong>
   <h2>contributions welcome</h2>
-   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">
+   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"/>
  
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Last%20Updated-25%20Sep%202022-red">
+  <img src="https://img.shields.io/badge/Last%20Updated-25%20Sep%202022-red"/>
 </div>
 
 
