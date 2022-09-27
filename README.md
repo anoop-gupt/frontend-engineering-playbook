@@ -76,12 +76,15 @@ Please note that for now, producing a better book is the primary goal. All other
   - RegEx related exploits
 - [12 Frontend Dashboard ](sections/dashboard)
 - [13 Caching strategies](sections/12-caching-strategies)
-- [14 Making it searchable](sections/13-making-it-searchable)
+- [14 Making things searchable](sections/13-making-it-searchable)
 - [15 Packers and Bundlers](sections/13-making-it-searchable)
 - [16 Libraries you can use](sections/15-libraries-you-can-use)
 - [17 NPM Modules you can use](sections/16-modules-you-can-use)
-- [18 Credit and References](sections/16-modules-you-can-use)
-- [19 Contributors](sections/18-contributors)
+- [18 Continuous Integration](sections/18-ci)
+- [19 Release It](sections/19-release)
+- [20 Tools and Technologies](sections/20-tools-technologies)
+- [21 Credit and References](sections/21-credits)
+- [22 Contributors](sections/18-contributors)
 
 
 <br/><br/><br/>
